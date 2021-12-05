@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gio83dj
 - 👀 I’m interested in Crypto
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & Java
 - 💞️ I’m looking to collaborate on who have enough dream
 - 📫 How to reach me giorgio.leggio () gmail.com
 
